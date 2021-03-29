@@ -26,3 +26,11 @@ Use the project in [tp3-balanced-strings](../code/tp3-balanced-strings) to compl
 
 ## Answer
 
+Answer 1)- 
+        characteristic                          String1  String2
+        Contains balanced symbols               true     false
+        Do not contain the balanced symbols     false    true
+
+Answer 2,3,4)-
+        ![Exo3](https://user-images.githubusercontent.com/57901216/112814732-dee92600-907f-11eb-90de-01966c7669a2.png)
+        
