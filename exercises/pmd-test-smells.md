@@ -14,4 +14,11 @@ Discuss the test smell you found with the help of PMD and propose here an improv
 Include the improved test code in this file.
 
 ## Answer
-
+  What we found in the following PMD:
+      • Junit should include assert
+      • Junit should include too many assertions
+  And the improvements that can be made:
+      • Use the annotations for better test results
+      • Should use a test suite for test driven development
+      • Should use the null.
+      • Should use exceptions.
